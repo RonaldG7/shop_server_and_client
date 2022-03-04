@@ -1,0 +1,57 @@
+.d-flex {
+    display: flex;
+}
+
+.a-center {
+    align-items: center;
+}
+
+.j-center {
+    justify-content: center;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.m10 {
+    margin: 10px;
+}
+
+.linkBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    width: 130px;
+    height: 25px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.link {
+    text-decoration: none;
+
+}
+
+.toolbarText {
+    margin-right: 10px;
+}
+
+.form {
+    border: 1px solid;
+    width: 200px;
+    height: 350px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.form img {
+    width: 160px;
+    height: 160px;
+}
+
